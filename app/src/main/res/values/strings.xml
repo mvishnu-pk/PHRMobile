@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PHRMobile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_message">Message</string>
 </resources>
